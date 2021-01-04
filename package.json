@@ -81,7 +81,7 @@
     "@babel/register": "^7.0.0",
     "@babel/runtime-corejs2": "^7.11.2",
     "@babel/template": "^7.0.0",
-    "@babel/traverse": "^7.0.0",
+    "@babel/traverse": "^7.12.12",
     "@babel/types": "^7.0.0",
     "@commitlint/cli": "^9.1.1",
     "@commitlint/config-conventional": "^9.1.1",
